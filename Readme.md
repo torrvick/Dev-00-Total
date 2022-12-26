@@ -60,7 +60,7 @@ string[] arrayFiltered = strTemp.Split(',');
 return arrayFiltered;
 ```
 
-И выводим его в консоль:
+И выводим его в консоль, вызвав метод `ArrayFilter`:
 
 ```C#
 Console.WriteLine("Отфильтрованный массив:");
