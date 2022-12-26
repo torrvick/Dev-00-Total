@@ -68,3 +68,5 @@ Console.WriteLine($"[\"{String.Join("\", \"", ArrayFilter(array))}\"]");
 Console.WriteLine();
 ```
 
+Алгоритм выполнения этой задачи можно представить в виде блок-схемы:
+![Алгоритм](diagram.png)
